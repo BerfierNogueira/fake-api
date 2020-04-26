@@ -1,8 +1,5 @@
 {
   "marcadores": [
-    {},
-    null,
-    null,
     {
       "bleachlogo": {
         "name": "ichigo",
@@ -10,14 +7,18 @@
         "dataInfo": {
           "text": "Bleach é uma série de mangá escrita e ilustrada por Tite Kubo. Bleach segue as aventuras de Ichigo Kurosaki que após ganhar os poderes de um Ceifeiro de Almas, através de uma Ceifeira de Almas, Rukia Kuchiki"
         }
-      },
+      }
+    },
+    {
       "findjoy": {
         "name": "travel",
         "imageURL": "https://i.pinimg.com/originals/b4/4c/66/b44c665c88d2d14d1b4a6904bd133acb.gif",
         "dataInfo": {
           "text": "Carpe diem é parte da frase latina carpe diem quam minimum credula postero, extraída de uma das Odes, de Horácio, e tem numerosas traduções possíveis: \"colhe o dia\", \"desfruta o presente\", \"vive este dia\", \"aproveita o dia\" ou \"aproveita o momento\"."
         }
-      },
+      }
+    },
+    {
       "egyptart": {
         "name": "Obra egípcia",
         "imageURL": "https://cdn.awsli.com.br/600x450/344/344270/produto/23139822/0ee60002e6.jpg",
