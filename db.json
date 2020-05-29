@@ -23,6 +23,14 @@
         "text": "O Egito, um país que liga o nordeste da África ao Oriente Médio, remonta ao tempo dos faraós.",
         "description": "Obra egípcia"
       }
+    },
+    {
+      "name": "barco",
+      "imageURL": "https://images.vexels.com/media/users/3/166312/isolated/preview/703116489ce1caed77ab32c4a31e7447---cone-de-navio-traineira-de-pesca-by-vexels.png",
+      "dataInfo": {
+        "text": "Canoa costeira do Maranhão recebe título de Patrimônio Cultural do Brasil Embarcação artesanal é típica do litoral maranhense. Atualmente, há apenas 27 catalogadas pelo Iphan.  Do G1 MA, com informações da TV Mirante Facebook A canoa costeira maranhense, uma das embarcações artesanais típicas do nosso litoral, recebeu nesta quarta-feira (23) o título de Patrimônio Cultural do Brasil. Além dela, outros três tipos de embarcações tradicionais do Brasil receberam o mesmo título. ",
+        "description": "Barco Maranhense"
+      }
     }
   ]
 }
