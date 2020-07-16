@@ -2,7 +2,7 @@
   "marcadores": [
     {
       "name": "bleachlogo",
-      "imageURL": "https://66.media.tumblr.com/47b5dd2d08f22b0f4bb0c6d4183584dd/tumblr_mnxzvp8mjX1rwgj3ko1_500.gif",
+      "resource": "https://66.media.tumblr.com/47b5dd2d08f22b0f4bb0c6d4183584dd/tumblr_mnxzvp8mjX1rwgj3ko1_500.gif",
       "dataInfo": {
         "text": "Bleach é uma série de mangá escrita e ilustrada por Tite Kubo. Bleach segue as aventuras de Ichigo Kurosaki que após ganhar os poderes de um Ceifeiro de Almas, através de uma Ceifeira de Almas, Rukia Kuchiki",
         "description": "ichigo"
@@ -10,7 +10,7 @@
     },
     {
       "name": "findjoy",
-      "imageURL": "https://image.shutterstock.com/image-photo/overhead-view-travelers-accessories-essential-260nw-425996818.jpg",
+      "resource": "https://image.shutterstock.com/image-photo/overhead-view-travelers-accessories-essential-260nw-425996818.jpg",
       "dataInfo": {
         "text": "Carpe diem é parte da frase latina carpe diem quam minimum credula postero, extraída de uma das Odes, de Horácio, e tem numerosas traduções possíveis: \"colhe o dia\", \"desfruta o presente\", \"vive este dia\", \"aproveita o dia\" ou \"aproveita o momento\".",
         "description": "Travel"
@@ -18,7 +18,7 @@
     },
     {
       "name": "egyptart",
-      "imageURL": "https://cdn.awsli.com.br/600x450/344/344270/produto/23139822/0ee60002e6.jpg",
+      "resource": "https://cdn.awsli.com.br/600x450/344/344270/produto/23139822/0ee60002e6.jpg",
       "dataInfo": {
         "text": "O Egito, um país que liga o nordeste da África ao Oriente Médio, remonta ao tempo dos faraós.",
         "description": "Obra egípcia"
@@ -26,7 +26,7 @@
     },
     {
       "name": "barco",
-      "imageURL": "https://i.imgur.com/FMOLs4A.png",
+      "resource": "https://i.imgur.com/FMOLs4A.png",
       "dataInfo": {
         "text": "Canoa costeira do Maranhão recebe título de Patrimônio Cultural do Brasil Embarcação artesanal é típica do litoral maranhense. Atualmente, há apenas 27 catalogadas pelo Iphan.  Do G1 MA, com informações da TV Mirante Facebook A canoa costeira maranhense, uma das embarcações artesanais típicas do nosso litoral, recebeu nesta quarta-feira (23) o título de Patrimônio Cultural do Brasil. Além dela, outros três tipos de embarcações tradicionais do Brasil receberam o mesmo título. ",
         "description": "Barco Maranhense"
