@@ -9,11 +9,11 @@
       }
     },
     {
-      "name": "findjoy",
+      "name": "barco",
       "resource": "BoatRow.obj",
       "dataInfo": {
-        "text": "Carpe diem é parte da frase latina carpe diem quam minimum credula postero, extraída de uma das Odes, de Horácio, e tem numerosas traduções possíveis: \"colhe o dia\", \"desfruta o presente\", \"vive este dia\", \"aproveita o dia\" ou \"aproveita o momento\".",
-        "description": "Travel"
+        "text": "Um dos motivos para tantos barcos típicos é que este Estado tem três mil quilômetros de rios navegáveis. O outro é que seu litoral é o segundo em extensão, com 640 quilômetros de Atlântico, perdendo apenas para o da Bahia. Mas isto só não justifica tanta diversidade. A diferença é a formação da zona costeira daqui que tem, ao norte, as Reentrâncias Maranhenses; e, ao sul, a região de dunas, em Barreirinhas, seguida pelo Delta do rio Parnaíba, fronteira com Piauí. Todas elas são áreas alagadas com cidades, vilas, aldeias, e vilarejos, onde as estradas de rodagem são poucas e ruins. A via de comunicação são os barcos, quase como nos primórdios da colonização.",
+        "description": "Barco Maranhense"
       }
     },
     {
@@ -25,11 +25,11 @@
       }
     },
     {
-      "name": "barco",
+      "name": "barco-amarelo-min",
       "resource": "https://i.imgur.com/FMOLs4A.png",
       "dataInfo": {
         "text": "Canoa costeira do Maranhão recebe título de Patrimônio Cultural do Brasil Embarcação artesanal é típica do litoral maranhense. Atualmente, há apenas 27 catalogadas pelo Iphan.  Do G1 MA, com informações da TV Mirante Facebook A canoa costeira maranhense, uma das embarcações artesanais típicas do nosso litoral, recebeu nesta quarta-feira (23) o título de Patrimônio Cultural do Brasil. Além dela, outros três tipos de embarcações tradicionais do Brasil receberam o mesmo título. ",
-        "description": "Barco Maranhense"
+        "description": "Canoa Costeira"
       }
     }
   ]
